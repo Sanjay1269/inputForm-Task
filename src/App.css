@@ -1,0 +1,22 @@
+
+.form{
+  height: auto;
+  width: 900px;
+  border: 2px solid black;
+  padding: 10px;
+  margin-left: 20%;
+  font-size: larger;
+  background-color: rgb(163, 162, 162);
+}
+h1{
+  text-align: center;
+}
+.showDataStyle{
+  margin: 0px;
+  padding: 10px;
+  background-color: rgb(163, 162, 162) ;
+}
+button{
+  justify-content: center;
+  margin: 10px;
+}
