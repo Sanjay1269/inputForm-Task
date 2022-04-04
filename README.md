@@ -5,7 +5,7 @@ data will be viewed on the click of view data .\
 the data will be downloaded in the JSON format on the click of the download button 
 
 # delpoyed
-click here to open app : https://employeeeee.herokuapp.com/
+click here to open app : https://react-app-inputform.herokuapp.com/
 
 # Getting Started with Create React App
 
